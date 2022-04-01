@@ -57,11 +57,12 @@ p {
 }
 
 .tm-site-title { 
-	border: 2px solid #888481;
-	color: #676362;
+	border: 2px solid #c8ff00;
+	color: #e7e7e7;
 	display: inline-block;
 	font-size: 3rem; 
 	padding: 30px 40px;
+	background-color: lightcoral;
 }
 
 .tm-textbox {
